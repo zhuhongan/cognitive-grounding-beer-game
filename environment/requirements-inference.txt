@@ -1,0 +1,13 @@
+# Parameter inference (analysis/beer_role_infer.ipynb), Python 3.10.
+# Versions reported in the paper's Methods (Statistics and reproducibility).
+bayesflow==2.0.7
+keras==3.10.0
+jax==0.6.0
+jaxlib==0.6.0
+numpy==1.26.4
+scipy==1.15.3
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.8.4
+seaborn==0.13.2
+jupyter

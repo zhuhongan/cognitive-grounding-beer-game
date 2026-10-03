@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Cognitive grounding improves LLM simulation of collective human behavior"
+authors:
+  - family-names: Zhu
+    given-names: Hongan
+    affiliation: Northeastern University
+  - family-names: Heydari
+    given-names: Babak
+    affiliation: Northeastern University
+doi: 10.24433/CO.2254887.v1
+license: MIT
+repository-code: "https://github.com/zhuhongan/cognitive-grounding-beer-game"
